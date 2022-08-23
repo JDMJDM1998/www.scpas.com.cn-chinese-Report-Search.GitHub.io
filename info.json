@@ -1,0 +1,274 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.scpas.com.cn/chinese/Report-Search/Inquire.asp?ID=3571",
+            "path": "index.html",
+            "saved": true,
+            "size": 7880,
+            "children": [
+                {
+                    "url": "http://www.scpas.com.cn/images/banners.jpg",
+                    "path": "img/banners.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.scpas.com.cn/images/zhanlue.png",
+                    "path": "img/zhanlue.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.scpas.com.cn/js/jquery.js",
+                    "path": "js/jquery.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.scpas.com.cn/js/common.js",
+                    "path": "js/common.js",
+                    "saved": true,
+                    "size": 224,
+                    "children": []
+                },
+                {
+                    "url": "http://www.scpas.com.cn/css/common.css",
+                    "path": "css/common.css",
+                    "saved": true,
+                    "size": 6738,
+                    "children": [
+                        {
+                            "url": "http://www.scpas.com.cn/images/bj.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/bodyBg.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/bodyBg3.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/bodyBg2.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/left_ar.png",
+                            "path": "img/left_ar.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/right_ar.png",
+                            "path": "img/right_ar.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/num_grey.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/num_red.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.scpas.com.cn/css/default.css",
+                    "path": "css/default.css",
+                    "saved": true,
+                    "size": 37862,
+                    "children": [
+                        {
+                            "url": "http://www.scpas.com.cn/images/index_01.jpg",
+                            "path": "img/index_01.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/indexfan_01.jpg",
+                            "path": "img/indexfan_01.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/foot.png",
+                            "path": "img/foot.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/index_04.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/left1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/right1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/index_10.png",
+                            "path": "img/index_10.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/index_12.png",
+                            "path": "img/index_12.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/jiao.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/middle.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/dian.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/index_15.png",
+                            "path": "img/index_15.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/index_33.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/index_31.png",
+                            "path": "img/index_31.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/gywm_03.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/gywm_06.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/lc_07.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/lc_08.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/gywm_20.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/hwork.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/work.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/top.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.scpas.com.cn/images/bottom.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.scpas.com.cn/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 3978,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-scpas-com-cn-gygef3k",
+    "info": {
+        "remark": [],
+        "title": "海峡会计师事务所有限责任公司、北京海峡资产评估有限公司",
+        "domain": "www.scpas.com.cn",
+        "origin": "http://www.scpas.com.cn",
+        "ip": "114.113.227.68",
+        "main": "index.html",
+        "url": "http://www.scpas.com.cn/chinese/Report-Search/Inquire.asp?ID=3571",
+        "totalSize": "56.7 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.scpas.com.cn/chinese/Report-Search/Inquire.asp?ID=3571",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://www.scpas.com.cn/chinese/Report-Search/Inquire.asp?ID=3571",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "cache-control": "private",
+                "content-type": "text/html",
+                "server": "Microsoft-IIS/10.0",
+                "set-cookie": [
+                    "ASPSESSIONIDSACBBTQB=KPCPGHCCMMFIDDHGAAMDGIEL; path=/"
+                ],
+                "x-powered-by": "ASP.NET",
+                "date": "Tue, 23 Aug 2022 04:30:02 GMT",
+                "connection": "close",
+                "content-length": "8781"
+            }
+        },
+        "time": {
+            "start": "2022-08-23T04:30:01.627Z",
+            "end": "2022-08-23T04:30:08.677Z"
+        }
+    },
+    "options": {
+        "url": "http://www.scpas.com.cn/chinese/Report-Search/Inquire.asp?ID=3571",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [
+            "css"
+        ],
+        "filenameGenerator": "byType"
+    }
+}
